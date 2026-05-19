@@ -1,0 +1,8 @@
+# Файл .dockerignore
+venv
+.git
+db.sqlite3
+
+#Есть и другие файлы, которые стоит добавить в .dockerignore:
+#файлы IDE: .idea, .vscode и другие;
+#файлы с переменными окружения: например, .env.
